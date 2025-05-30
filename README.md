@@ -13,12 +13,13 @@ Designed a Power BI dashboard to help leadership gain real-time visibility into 
 ## Project Includes:
 1. Read Me Doc - The current document you are reading that provides overview of project.
 2. PNG Files - Images of Dashboards
-3. Final_Telecom_Data_with_Costs.xlsx - Data pulled from Salesforce and stored. This step can be skipped for many businesses by pulling data directly from Salesforce to Power BI.
-4. Telecom_Sales_Rev_Portfolio.PBIX - Power BI file that contains Sales, Revenue, and Costs dashboard.
+3. Financial_Clarity_Dashboard_Dataset-2.xlsx - Data pulled from Quickbooks and stored in Excel. This step can be skipped for many businesses by pulling data directly from Salesforce to Power BI.
+4. Company-Financials.PBIX - Power BI file that contains Revenue, Cash Flow, Budgets, and Expenses.
 
 ## Tech Stack
 - Microsoft Power BI
 - Quickbooks
+- Excel
 
 Contact: 
 Website: https://www.jakelender.com
